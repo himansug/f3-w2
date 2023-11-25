@@ -42,10 +42,3 @@ This system aims to provide a seamless and secure user authentication experience
 
 
 
-# Contact✔️🔴
-
-If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
-
-GITHUB LINK https://github.com/sandeep-mz/week2-f3
-
-DEPLOYED LINK https://sandeep-mz.github.io/week2-f3/
